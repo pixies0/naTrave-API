@@ -1,9 +1,9 @@
-import Koa from 'koa'
-import Router from '@koa/router'
+// import Koa from 'koa'
+// import Router from '@koa/router'
 
-const app = new Koa()
+// const app = new Koa()
 
-app.use(router.routes())
-app.use(router.allowedMethods())
+// app.use(router.routes())
+// app.use(router.allowedMethods())
 
-app.listen(3000)
+// app.listen(3000)
